@@ -41,3 +41,19 @@ Nltk：https://blog.csdn.net/hzp666/article/details/79373720
 矩阵分解：https://blog.csdn.net/u014475479/article/details/78520737
 
 Svd：https://blog.csdn.net/billbliss/article/details/78579308
+
+Word2vec: http://www.dataguru.cn/article-13488-1.html
+
+计算机视觉：https://blog.csdn.net/ksws0292756/article/details/78881839
+
+Opencv：https://blog.csdn.net/qq_38660394/article/details/80762011
+
+图像特征提取：https://blog.csdn.net/whuhan2013/article/details/53995718
+
+图像数据处理：http://www.cnblogs.com/ranjiewen/p/7482693.html
+
+图像分类：https://blog.csdn.net/fool_ran/article/details/73744154
+
+图像检测：https://blog.csdn.net/omenglishuixiang1234/article/details/53305842
+
+

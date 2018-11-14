@@ -56,4 +56,6 @@ Opencv：https://blog.csdn.net/qq_38660394/article/details/80762011
 
 图像检测：https://blog.csdn.net/omenglishuixiang1234/article/details/53305842
 
+CNN网络架构之美：https://www.cnblogs.com/skyfsm/p/8451834.html
 
+crohme竞赛：https://www.isical.ac.in/~crohme/

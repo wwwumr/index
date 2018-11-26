@@ -12,3 +12,7 @@ https://github.com/wwwumr/web.git
 python: some games by Tkinter
 
 https://github.com/wwwumr/python.git
+
+An AI item:LessPaper
+
+https://github.com/wwwumr/LessPaper.git

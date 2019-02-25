@@ -5,9 +5,9 @@ cpp :save cpp labs
 
 https://github.com/wwwumr/cpp.git
 
-web :record my front-end homeworks
+front-end :record my front-end homeworks
 
-https://github.com/wwwumr/web.git
+https://github.com/wwwumr/front-end.git
 
 python: some games by Tkinter
 
